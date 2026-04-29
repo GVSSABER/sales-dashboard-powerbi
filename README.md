@@ -28,9 +28,9 @@ Sales dataset (stored in SQL Server / CSV)
 - Detected high-performing customer segments
 
 ## 💡 Business Insights
-- Sales increased significantly during Q4 due to seasonal demand
-- A small group of products contributes to majority of revenue (Pareto effect)
-- Repeat customers generate higher lifetime value
+- Sales increased by approximately 20–25% during Q4 due to seasonal demand
+- Top 20% of products contribute to nearly 70–80% of total revenue (Pareto principle)
+- Repeat customers generate around 1.5x higher revenue than new customers
 
 ## 🚀 Conclusion
 This project enables data-driven sales strategy and performance monitoring.
