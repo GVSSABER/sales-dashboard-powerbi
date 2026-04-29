@@ -1,10 +1,13 @@
 # Sales Analytics Dashboard
 
+## 📖 Project Overview
+This project analyzes retail sales data to help businesses understand revenue trends, identify top-performing products, and improve decision-making.
+
 ## 📌 Problem Statement
-Analyze sales data to identify trends, top-performing products, and customer behavior to support business decision-making.
+Businesses struggle to track sales performance and identify key revenue drivers.
 
 ## 🎯 Objective
-To build an interactive dashboard that helps businesses understand sales performance and improve strategy.
+To build an interactive dashboard for analyzing sales trends and customer behavior.
 
 ## 🛠 Tools & Technologies
 - SQL Server
@@ -12,22 +15,22 @@ To build an interactive dashboard that helps businesses understand sales perform
 - Excel
 
 ## 📊 Dataset
-Sales dataset (stored in SQL Server / CSV file)
+Sales dataset (stored in SQL Server / CSV)
 
 ## ⚙️ Approach
-- Imported data into SQL Server
-- Cleaned and transformed data
-- Connected Power BI to database
-- Created interactive dashboards
+- Cleaned and transformed data using SQL
+- Built data model
+- Created dashboard in Power BI
 
 ## 📈 Key Results
-- Identified top-selling products
-- Found seasonal sales trends
-- Analyzed customer segments
+- Identified top 10 revenue-generating products
+- Observed strong seasonal sales patterns
+- Detected high-performing customer segments
 
 ## 💡 Business Insights
-- Certain products contribute majority of revenue
-- Sales increase during specific months
+- Sales increased significantly during Q4 due to seasonal demand
+- A small group of products contributes to majority of revenue (Pareto effect)
+- Repeat customers generate higher lifetime value
 
 ## 🚀 Conclusion
-This project helps businesses make data-driven sales decisions using dashboards.
+This project enables data-driven sales strategy and performance monitoring.
